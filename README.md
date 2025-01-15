@@ -1,6 +1,6 @@
-Nodejs
-Express
-Mongodb
-React
-Zustand
+Nodejs,
+Express,
+Mongodb,
+React,
+Zustand,
 Vite
